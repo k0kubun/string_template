@@ -86,7 +86,7 @@ For other templates, you might better use your favorite template engine such as 
 
 
 ## Benchmark
-Following is the benchmark result showing how string\_template is faster than ERB (Erubi, to be technically accurate), executed on Ruby trunk (2.6).
+Following is the benchmark result showing how string\_template is faster than ERB (Erubi, to be technically accurate), executed on Ruby master (2.6).
 This repo includes [this actual benchmarking script](https://github.com/amatsuda/string_template/blob/master/benchmark.rb) so that you can try it on your machine.
 
 ```
